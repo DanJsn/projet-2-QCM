@@ -1,0 +1,20 @@
+body {
+    background: #232526; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#232526, #414345); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#232526, #414345); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#232526, #414345); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#232526, #414345); /* Standard syntax */
+    color: #FFFFFF;
+    font-family: 'Lato';
+}
+
+
+
+
+h1 {
+  text-align: center;
+
+}
+h2 {
+  text-align:center ;
+}
